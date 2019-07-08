@@ -1,0 +1,10 @@
+G:\vs2008\Projects\serialPort1\serialPort1\obj\Debug\ResolveAssemblyReference.cache
+G:\vs2008\Projects\serialPort1\serialPort1\obj\Debug\serialPort1.Form1.resources
+G:\vs2008\Projects\serialPort1\serialPort1\obj\Debug\serialPort1.Properties.Resources.resources
+G:\vs2008\Projects\serialPort1\serialPort1\obj\Debug\serialPort1.csproj.GenerateResource.Cache
+G:\vs2008\Projects\serialPort1\serialPort1\bin\Debug\serialPort1.exe
+G:\vs2008\Projects\serialPort1\serialPort1\bin\Debug\serialPort1.pdb
+G:\vs2008\Projects\serialPort1\serialPort1\obj\Debug\serialPort1.exe
+G:\vs2008\Projects\serialPort1\serialPort1\obj\Debug\serialPort1.pdb
+G:\vs2008\Projects\serialPort1\serialPort1\obj\Debug\serialPort1.Form2.resources
+G:\vs2008\Projects\serialPort1\serialPort1\obj\Debug\serialPort1.Form3.resources
